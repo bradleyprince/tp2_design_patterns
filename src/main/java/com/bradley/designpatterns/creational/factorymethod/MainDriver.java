@@ -2,7 +2,7 @@ package com.bradley.designpatterns.creational.factorymethod;
 
 /**
  *
- * @author Balla
+ * @author bradley
  */
 public class MainDriver {
     
